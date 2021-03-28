@@ -1,7 +1,6 @@
 {
   "name": "algorithm-patterns",
   "version": "1.0.0",
-  "description": "알고리즘 패턴을 쉽게 정리합니다.   언어로는 자바스크립트와 파이썬을 이용합니다.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
