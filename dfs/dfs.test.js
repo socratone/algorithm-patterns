@@ -6,7 +6,7 @@ beforeEach(() => {
   graph = {
     1: {
       isVisit: false,
-      nexts: [2, 3, 8],
+      nexts: [2, 3, 8], // 오름차순
     },
     2: {
       isVisit: false,
